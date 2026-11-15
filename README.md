@@ -38,6 +38,7 @@ else's. Entries are grouped, not ranked. Corrections and additions are welcome, 
 ## Decompilers and unbundlers
 
 - [wakaru](https://github.com/pionxzh/wakaru) - Decompiler for modern frontend output: unpacks bundles and reverses transpiler and minifier transforms.
+- [jscdec](https://github.com/8zav1/jscdec) - Pure-JavaScript decompiler for V8 `SerializedCodeData` (`.jsc` / Bytenode) snapshots, Electron `.asar` archives, and packaged Electron `.exe` binaries across Electron 22–34 (V8 10.8–13.2) and Node.js 20–22 x64, with static `_0x` string-array deobfuscation and a [client-side web IDE](https://jsc-decompiler.vercel.app). Never executes the sample.
 
 ## AI-assisted
 
